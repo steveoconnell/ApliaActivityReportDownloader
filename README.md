@@ -1,6 +1,7 @@
+
 # Downloading Cengage-Aplia Student User Activity Reports
 
-R script for course instructors/TAs to download the full set of student activity reports in their Aplia courses.
+R script for course instructors/TAs to automate downloading the full set of student activity reports in their Aplia courses.
 
 ## Directions
 
