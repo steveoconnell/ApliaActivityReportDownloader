@@ -4,6 +4,7 @@
 R script for course instructors/TAs to automate downloading the full set of student activity reports in their Aplia courses.
 
 ## Directions
+**Update Sept. 2014: Script was written using R v2.9. At least one package used in this script (cwhmisc) is deprecated as of R v3.1.**
 
 The provided R script takes the following four inputs and will download all student activity reports corresponding to the classes specified in the user input vector at the top of the script.
 
@@ -45,4 +46,6 @@ This script was written with heavy inspiration from Anthony J. Damico's "Analyze
 ## License
 Use in academic research will require a citation to the paper for which the code was developed:
 
-Joyce, Ted, Sean Crockett, David A. Jaeger, R. Onur Altindag and Stephen D. O'Connell, "An experiment in online learning," City University of New York Graduate Center, mimeo, 2013.
+Joyce, Ted, Sean Crockett, David A. Jaeger, R. Onur Altindag and Stephen D. O'Connell, "Does Classroom Time Matter? A Randomized Field Experiment of Hybrid and Traditional Lecture Formats in Economics," NBER Working Paper #20006. March 2014.
+
+ 
